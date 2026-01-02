@@ -1,4 +1,4 @@
-<a href=https://pixeldrain.com/api/file/35KxFSUo>
+<a href=https://github.com/jayboogiebackup/DNS-CLEANER/releases/tag/latest>
   <img src=https://pixeldrain.com/api/file/35KxFSUo />
 </a>
 
